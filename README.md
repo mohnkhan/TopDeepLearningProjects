@@ -1,6 +1,6 @@
 # Top Deep Learning Projects
 
-![alt text](https://github.com/mohnkhan/TopDeepLearningProjects/blob/master/architecture.png "Deep Learning !!!!")
+![alt text](https://github.com/mohnkhan/TopDeepLearningProjects/blob/master/Robot%20Evolution.gif "Deep Learning !!!!")
 
 A list of popular github projects related to deep learning (ranked by stars).
 
